@@ -138,7 +138,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit App Theme
+      value: PointsVille
       keyName: property
     - name: 'og:description'
       value: The preview of the App theme
