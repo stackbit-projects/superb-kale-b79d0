@@ -115,5 +115,6 @@
         ],
         "content": "&copy; All rights reserved."
     },
-    "domain": "https://beta-www.pointsville.com"
+    "domain": "https://beta-www.pointsville.com",
+    "favicon": "images/PointsVille.PNG"
 }
