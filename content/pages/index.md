@@ -132,7 +132,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: PointsVille
-  description: The preview of the App theme
+  description: Discover your points
   extra:
     - name: 'og:type'
       value: website
