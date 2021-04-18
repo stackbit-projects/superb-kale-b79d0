@@ -141,7 +141,7 @@ seo:
       value: PointsVille
       keyName: property
     - name: 'og:description'
-      value: The preview of the App theme
+      value: Discover your points
       keyName: property
     - name: 'og:image'
       value: images/post-1.jpg
