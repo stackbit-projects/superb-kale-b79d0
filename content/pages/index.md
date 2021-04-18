@@ -110,7 +110,7 @@ sections:
       Download App Land now and connect with all your calendars, project
       management tools and task lists — it doesn't get easier than this!
     actions:
-      - label: App Store
+      - label: Individuals
         url: /pricing
         style: primary
       - label: Google Play
